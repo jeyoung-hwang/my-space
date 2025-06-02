@@ -14,5 +14,18 @@ name = input("young")
 age = input(21)
 print(f"{name}님은 {age}살입니다")
 
+
 # Day 2
 ## 변수와 자료형
+name = "young"
+age = 21
+is_student = True
+
+print("이름", name)
+
+print(type(name))
+
+print(type(10)) # int 정수: 나이, 수량
+print(type(3.14)) # float 실수: 소수점 있는 숫자
+print(type("hello")) # str 문자열: 글자 데이터
+print(type(True)) # bool 불리언: 참/거짓짓
