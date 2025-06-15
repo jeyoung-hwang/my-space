@@ -54,3 +54,8 @@ else:
 result = (age >= 18 and age <30)
 print(result)
 
+animal  = str(input("강아지, 고양이 중에 아무거나 입력하세요: "))
+if animal == 강아지 or animal == 고양이:
+    print("잘했어요!")
+else:
+    print("ㅉㅉ")
