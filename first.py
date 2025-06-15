@@ -31,4 +31,7 @@ print(type("hello")) # str 문자열: 글자 데이터
 print(type(True)) # bool 불리언: 참/거짓
 
 # Day 3
-## 연산자 (산술, 비교, 논리)
+## 연산자 (산술, 문자열, 비교, 논리)
+a = 3
+b = 5
+print(a + b)
