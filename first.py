@@ -51,3 +51,6 @@ if age >= 20 and age < 30:
 else:
     print("20대가 아닙니다")
 
+result = (age >= 18 and age <30)
+print(result)
+
