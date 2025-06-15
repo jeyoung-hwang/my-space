@@ -36,4 +36,6 @@ a = 3
 b = 5
 print(a + b)
 
-first 
+first = "케이크"
+second = "사와"
+print(first + "맛있는 거" + second + "!")
