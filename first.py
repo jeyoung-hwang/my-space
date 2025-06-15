@@ -35,3 +35,5 @@ print(type(True)) # bool 불리언: 참/거짓
 a = 3
 b = 5
 print(a + b)
+
+first 
