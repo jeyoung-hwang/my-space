@@ -44,3 +44,5 @@ age = 20
 is_adult = age >= 18
 print("성인인가요?", is_adult)
 print(age >= 18 and age < 65)
+
+age = 
