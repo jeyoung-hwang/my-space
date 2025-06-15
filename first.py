@@ -46,3 +46,7 @@ print("성인인가요?", is_adult)
 print(age >= 18 and age < 65)
 
 age = int(input("나이를 입력하세요:  "))
+if age >= 20 and age < 30:
+    print("20")
+else:
+    print("30")
