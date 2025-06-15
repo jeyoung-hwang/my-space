@@ -50,3 +50,4 @@ if age >= 20 and age < 30:
     print("20대입니다")
 else:
     print("20대가 아닙니다")
+
