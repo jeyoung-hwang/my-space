@@ -47,6 +47,6 @@ print(age >= 18 and age < 65)
 
 age = int(input("나이를 입력하세요:  "))
 if age >= 20 and age < 30:
-    print("20")
+    print("20대입니다")
 else:
-    print("30")
+    print("20대가 아닙니다")
