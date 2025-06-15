@@ -39,3 +39,4 @@ print(a + b)
 first = "케이크"
 second = "사와"
 print(first + " " + "맛있는 거" + " " + second + "!")
+
