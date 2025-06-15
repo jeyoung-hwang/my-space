@@ -40,3 +40,7 @@ first = "케이크"
 second = "사와"
 print(first + " " + "맛있는 거" + " " + second + "!")
 
+age = 20
+is_adult = age >= 18
+print("성인인가요?", is_adult)
+print(age >= 18 and age < 65)
