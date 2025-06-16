@@ -68,3 +68,8 @@ if age >= 18:
 else:
     print("미성년자입니다")
 
+score = 99
+if score >= 98:
+    print ("A학점")
+elif score >= 90:
+    print("B학점")
