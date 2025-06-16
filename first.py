@@ -73,3 +73,11 @@ if score >= 98:
     print ("A학점")
 elif score >= 90:
     print("B학점")
+
+age = 25
+is_student = True
+if age >= 20:
+    if is_student:
+    print("성인인 학생입니다")
+else:
+    print("성인이지만 학생은 아닙니다")
