@@ -78,6 +78,6 @@ age = 25
 is_student = True
 if age >= 20:
     if is_student:
-    print("성인인 학생입니다")
+     print("성인인 학생입니다")
 else:
-    print("성인이지만 학생은 아닙니다")
+     print("성인이지만 학생은 아닙니다")
