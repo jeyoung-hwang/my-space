@@ -93,5 +93,6 @@ menu = input(str("메뉴 선택(양갈비/랍스터/비프스테이크): "))
 if price >= 57000:
    if menu == "양갈비" or menu == "랍스터":
      print("프리미엄 메뉴입니다")
+    else
 else:
      print("캐주얼 메뉴입니다")
