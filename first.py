@@ -59,3 +59,6 @@ if animal == '강아지' or animal == '고양이':
     print("잘했어요!")
 else:
     print("ㅉㅉ")
+
+# Day 4
+## 조건문 if, elif, else
