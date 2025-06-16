@@ -82,3 +82,9 @@ if age >= 20:
 else:
      print("성인이지만 학생은 아닙니다")
 
+num = int(input("숫자 입력: "))
+if num % 2 == 0:
+    print("짝수입니다")
+else:
+    print("홀수입니다")
+    
