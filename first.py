@@ -87,4 +87,11 @@ if num % 2 == 0:
     print("짝수입니다")
 else:
     print("홀수입니다")
+
+price = int(input("가격(원): "))
+menu = input(str("메뉴 선택(양갈비/랍스터/비프스테이크): "))
+if price >= 57000 or menu == "양갈비" or menu == "랍스터":
+    print("프리미엄 메뉴입니다")
+else:
+    print("캐주얼 메뉴입니다")
     
