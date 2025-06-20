@@ -112,3 +112,7 @@ while i <= 5: # while 조건:
     print(i)
     i += 1
 
+for i in range(1, 6):
+    if i == 3:
+        continue # break: 반복문 즉시 종료 / continue: 이번 반복 건너뛰고 다음 반복으로
+    print(i)
