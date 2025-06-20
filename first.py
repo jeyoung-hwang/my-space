@@ -97,3 +97,9 @@ else:
 
 # Day 5
 ## 반복문 (for/while)
+fruits = ["사과", "바나나", "포도"]
+for fruit in fruits:
+    print(fruit)
+
+for ch in "Python":
+    print(ch)
