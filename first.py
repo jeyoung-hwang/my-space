@@ -94,3 +94,6 @@ if price >= 57000 or menu == "양갈비" or menu == "랍스터":
      print("프리미엄 메뉴입니다")
 else:
      print("캐주얼 메뉴입니다")
+
+# Day 5
+## 반복문 (for/while)
