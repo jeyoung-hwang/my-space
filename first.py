@@ -97,7 +97,7 @@ else:
 
 # Day 5
 ## 반복문 (for/while)
-fruits = ["사과", "바나나", "포도"]
+fruits = ["사과", "바나나", "포도"] # for 변수 in 반복할 자료:
 for fruit in fruits:
     print(fruit)
 
