@@ -116,3 +116,14 @@ for i in range(1, 6): # 1부터 5까지
     if i == 3:
         continue # break: 반복문 즉시 종료 / continue: 이번 반복 건너뛰고 다음 반복으로
     print(i) # 출력: 1, 2, 3, 4
+
+# Day 6
+## 반복문 심화 (중첩 반복, 구구단, 별 찍기, 테이블 출력)
+for i in range(1, 4): # 바깥 반복 (3번)
+    for j in range(1, 4): # 안쪽 반복 (3번)
+        print(i, j)
+
+for dan in range(2, 10):
+    print(f"\n[{dan}단]")
+    for i in range(1, 10):
+        print(f"{dan} x {i} = {dan * i}")
