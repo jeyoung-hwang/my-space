@@ -103,3 +103,12 @@ for fruit in fruits:
 
 for ch in "Python":
     print(ch)
+
+for i in range(5): # range(5) -> 0, 1, 2, 3, 4
+    print(i)
+
+i = 1
+while i <= 5: # while 조건:
+    print(i)
+    i += 1
+
